@@ -16,6 +16,7 @@ import PieChartOutlinedIcon from '@mui/icons-material/PieChartOutlined';
 import TimelineOutlinedIcon from '@mui/icons-material/TimelineOutlined';
 import MenuOutlinedIcon from '@mui/icons-material/MenuOutlined';
 import MapOutlinedIcon from '@mui/icons-material/MapOutlined';
+import userPhoto from '../../assets/user.png'
 
 const Item = ({title, to, icon, selected, setSelected}) => {
   const theme = useTheme();
@@ -97,7 +98,7 @@ const SidebarCustom = () => {
                   alt="avatar"
                   width="100px"
                   height="100px"
-                  src="../../assets/user.png"
+                  src={userPhoto}
                   style={{cursor: "pointer", borderRadius: "50%"}}
                 />
               </Box>

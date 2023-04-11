@@ -2,7 +2,7 @@
 
 [![Languages, Technologies, Tools](https://skillicons.dev/icons?i=js,react,materialui )](https://skillicons.dev)  
 
-[![nivo charts](https://github.com/klsva/dashboard-front/blob/main/public/assets/nivo.png)](https://github.com/plouc/nivo)
+[![nivo charts](https://github.com/klsva/dashboard-front/blob/main/src/assets/nivo.png)](https://github.com/plouc/nivo)
 
 ## Short description
 Front-end part for KPI dashboard. The dashboard consists of three parts. 
@@ -35,4 +35,8 @@ $ npm start
 Application will run at http://localhost:3000
 
 ## Deploy link
+
+https://klsva.github.io/dashboard-front/
+
+:pray: Please, click on sidebar to see data and charts. I'm still trying to solve problem between Github pages and React-router
 
