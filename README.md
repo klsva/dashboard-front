@@ -1,4 +1,4 @@
-# Fron-end part of Dashboard App
+# Front-end part for Dashboard App
 
 [![Languages, Technologies, Tools](https://skillicons.dev/icons?i=js,react,materialui )](https://skillicons.dev)  
 
