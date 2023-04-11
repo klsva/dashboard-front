@@ -1,6 +1,7 @@
 # Fron-end part of Dashboard App
 
 [![Languages, Technologies, Tools](https://skillicons.dev/icons?i=js,react,materialui )](https://skillicons.dev)
+![nivo charts](https://github.com/klsva/dashboard-front/blob/main/public/assets/nivo.png)
 
 ## Short description
 Front-end part for KPI dashboard. The dashboard consists of three parts. 
