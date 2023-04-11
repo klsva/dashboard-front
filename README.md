@@ -25,10 +25,10 @@ I used mock data.
 
 ## Quick start
 
-$ https://github.com/klsva/dashboard-front
-$ cd dashboard-front
-$ npm install
-$ npm start
+`$ https://github.com/klsva/dashboard-front`
+`$ cd dashboard-front`
+`$ npm install`
+`$ npm start`
 
 Application will run at http://localhost:3000
 
